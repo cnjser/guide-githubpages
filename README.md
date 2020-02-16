@@ -1,2 +1,3 @@
 # guide-githubpages
-指导如何创建github主页
+
+记录如何使用gitbook创建github主页
